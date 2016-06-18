@@ -1,0 +1,4 @@
+target/
+# Since hardware is general and comes from a different project, do not
+# store symbolic link
+hardware
