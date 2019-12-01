@@ -2,4 +2,4 @@ projectName=ghost-dancer
 sourceDir=src
 targetDir=target
 mcu=atmega88p
-programmer=arduinoisp
+programmer=avrispmkii
